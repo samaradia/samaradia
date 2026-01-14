@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá! Eu sou Samara Dias 👋
 
-<!--
-**samaradia/samaradia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em atuar na área de **Desenvolvimento Backend** e futura software engineering. Tenho foco em aprendizado contínuo e na aplicação prática dos conceitos estudados.
 
-Here are some ideas to get you started:
+- 🔭 Interesse em oportunidades de **estágio em Backend**  
+- 🌱 Estudando **Java** e **Programação Orientada a Objetos**  
+- 🎯 Buscando desenvolver habilidades técnicas e profissionais na área de tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contato
+- Email: samara.dias.silva@uni9.edu.br  
+
+### 😄 Pronomes
+- Ela / Dela  
+
+### ⚡ Curiosidade
+- Gosto de praticar por meio de exercícios e pequenos projetos para reforçar o aprendizado.
+
