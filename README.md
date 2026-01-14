@@ -1,6 +1,6 @@
 ## Olá! Eu sou Samara Dias 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em atuar na área de **Desenvolvimento Backend** e futura software engineering. Tenho foco em aprendizado contínuo e na aplicação prática dos conceitos estudados.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em atuar na área de **Desenvolvimento Backend** e futura Software engineering. Tenho foco em aprendizado contínuo e na aplicação prática dos conceitos estudados.
 
 - 🔭 Interesse em oportunidades de **estágio em Backend**  
 - 🌱 Estudando **Java** e **Programação Orientada a Objetos**  
