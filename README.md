@@ -7,7 +7,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em at
 - 🎯 Buscando desenvolver habilidades técnicas e profissionais na área de tecnologia.
 
 ### 📫 Contato
-- Email: samara.dias.silva@uni9.edu.br  
+- Email: samara.dias.silva@uni9.edu.br
+- marcoscz329@gmail.com.br
 
 ### 😄 Pronomes
 - Ela / Dela  
