@@ -1,18 +1,36 @@
 ## Olá! Eu sou Samara Dias 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em atuar na área de **Desenvolvimento Backend** e futura Software engineering. Tenho foco em aprendizado contínuo e na aplicação prática dos conceitos estudados.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em atuar na área de **Desenvolvimento Backend** e futuramente como **Software Engineer**. Tenho foco em aprendizado contínuo e na aplicação prática dos conceitos estudados por meio de projetos.
 
-- 🔭 Interesse em oportunidades de **estágio em Backend**  
-- 🌱 Estudando **Java** e **Programação Orientada a Objetos**  
-- 🎯 Buscando desenvolver habilidades técnicas e profissionais na área de tecnologia.
+- 🔭 Em busca de uma oportunidade de **estágio em Desenvolvimento Backend**
+- 🌱 Atualmente estudando **Java** e **Programação Orientada a Objetos (POO)**
+- 🎯 Desenvolvendo habilidades técnicas para atuar na área de tecnologia
 
-### 📫 Contato
-- Email: samara.dias.silva@uni9.edu.br
-- marcoscz329@gmail.com.br
+## 💻 Habilidades
 
-### 😄 Pronomes
-- Ela / Dela  
+- Java
+- Programação Orientada a Objetos (POO)
+- Git e GitHub
+- Lógica de Programação
+- Estruturas de Dados (básico)
+- SQL (básico)
 
-### ⚡ Curiosidade
-- Gosto de praticar por meio de exercícios e pequenos projetos para reforçar o aprendizado.
+## 📚 Atualmente aprendendo
 
+- Java
+- Interfaces e Classes Abstratas
+- Herança e Polimorfismo
+- Boas práticas de Programação Orientada a Objetos
+
+## 📫 Contato
+
+- 📧 samara.dias.silva@uni9.edu.br
+- 📧 marcoscz329@gmail.com
+
+## 😄 Pronomes
+
+- Ela / Dela
+
+## ⚡ Curiosidade
+
+Gosto de aprender na prática, desenvolvendo exercícios e pequenos projetos para reforçar meus conhecimentos.
