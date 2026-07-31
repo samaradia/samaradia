@@ -21,7 +21,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em at
 - Interfaces e Classes Abstratas
 - Herança e Polimorfismo
 - Boas práticas de Programação Orientada a Objetos
-
+- sql
 ## 📫 Contato
 
 - 📧 samara.dias.silva@uni9.edu.br
